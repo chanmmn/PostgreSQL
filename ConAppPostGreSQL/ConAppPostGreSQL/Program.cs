@@ -7,12 +7,12 @@ namespace ConAppPostGreSQL
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Start!");
-            
+            ReadPostGreSQL();
         }
 
         public static void ReadPostGreSQL()
         {
-            string cs = "Host=localhost;Username=postgres;Password=Password;Database=test";
+            string cs = "Host=localhost;Username=postgres;Password=Paaaword;Database=test";
 
             using NpgsqlConnection con = new NpgsqlConnection(cs);
             con.Open();

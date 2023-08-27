@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5JsV6qDksFEsAIH/sEHLhYYw6tBFk9dUXQIcWodOJvhwr9aV5cvEzTZ+LBINVm13pl9G6QbtjuoBzFhar2XJTQ==",
+  "dgSpecHash": "ZutHxwX5+0SZCmGCuaidHi32uJ9VbDUMoR++2VESPHRoveGGhsb5ZQz/sr3QOZQ0NOI9knjBPcDrbLek0PtX2w==",
   "success": true,
-  "projectFilePath": "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
+  "projectFilePath": "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",

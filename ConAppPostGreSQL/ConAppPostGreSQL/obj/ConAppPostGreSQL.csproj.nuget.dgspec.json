@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj": {}
+    "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj": {}
   },
   "projects": {
-    "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj": {
+    "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
+        "projectUniqueName": "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
         "projectName": "ConAppPostGreSQL",
-        "projectPath": "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
+        "projectPath": "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\test\\other\\ConAppPostGreSQL\\ConAppPostGreSQL\\obj\\",
+        "outputPath": "C:\\git\\PostgreSQL\\ConAppPostGreSQL\\ConAppPostGreSQL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net6.0-windows"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,8 +30,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
             "projectReferences": {}
           }
         },
@@ -42,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
           "dependencies": {
             "Npgsql": {
               "target": "Package",
